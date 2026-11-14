@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Ripple guides</title>
+  <subtitle>Short guides from the developer of Ripple, a free app blocker for Android and iPhone, on phone limits for adults and for kids.</subtitle>
+  <link href="https://ripple-focus-app.github.io/feed.xml" rel="self"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <link href="https://ripple-focus-app.github.io/"/>
+  <id>https://ripple-focus-app.github.io/</id>
+  <updated>2026-11-14T14:40:00+08:00</updated>
+  <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Minimalist launcher or app blocker? Olauncher, minimalist phone and Ripple</title>
+    <link href="https://ripple-focus-app.github.io/minimalist-launcher-or-app-blocker/"/>
+    <id>https://ripple-focus-app.github.io/minimalist-launcher-or-app-blocker/</id>
+    <updated>2026-11-14T14:40:00+08:00</updated>
+    <summary>A text only home screen like Olauncher hides icons. It does not stop you opening an app. What minimalist launchers do well, where they fall short on a child's phone, and how a free app blocker with daily limits fits next to one.</summary>
+  </entry>
+  <entry>
+    <title>A YourHour or Regain alternative without ads or Pro?</title>
+    <link href="https://ripple-focus-app.github.io/yourhour-regain-alternative/"/>
+    <id>https://ripple-focus-app.github.io/yourhour-regain-alternative/</id>
+    <updated>2026-11-14T12:16:00+08:00</updated>
+    <summary>YourHour has ads and Pro plans, Regain puts strict mode and Pomodoro in Pro. What each does well, and what a free Android app blocker with daily limits and an unlock code someone else keeps can do instead.</summary>
+  </entry>
+  <entry>
+    <title>Looking for Jomo on Android, or a free Clearspace alternative?</title>
+    <link href="https://ripple-focus-app.github.io/jomo-for-android/"/>
+    <id>https://ripple-focus-app.github.io/jomo-for-android/</id>
+    <updated>2026-11-14T10:15:00+08:00</updated>
+    <summary>Jomo is only on iPhone, iPad and Mac. Clearspace has you earn minutes with push-ups. What each costs, and what a free Android app blocker with daily limits and an unlock code someone else keeps can do instead.</summary>
+  </entry>
+  <entry>
+    <title>Brick or Unpluq, or a free app? Physical NFC phone blockers compared</title>
+    <link href="https://ripple-focus-app.github.io/brick-unpluq-alternative/"/>
+    <id>https://ripple-focus-app.github.io/brick-unpluq-alternative/</id>
+    <updated>2026-11-14T08:15:00+08:00</updated>
+    <summary>What Brick and Unpluq do, what they cost and which phones they support, and when a free app blocker with an unlock code someone else keeps does the same job. For your own phone and for a child's phone.</summary>
+  </entry>
+  <entry>
+    <title>Living alone and scrolling every evening, or raising a child mostly on your own</title>
+    <link href="https://ripple-focus-app.github.io/living-alone/"/>
+    <id>https://ripple-focus-app.github.io/living-alone/</id>
+    <updated>2026-11-14T06:20:00+08:00</updated>
+    <summary>How to limit video and game apps when you live alone and the phone takes every evening and weekend, and how to set limits on a child's phone when you look after them mostly by yourself. Calls and chats keep working.</summary>
+  </entry>
+  <entry>
+    <title>A hospital stay: scrolling in a hospital bed, staying overnight, and a child on the ward</title>
+    <link href="https://ripple-focus-app.github.io/hospital-stay/"/>
+    <id>https://ripple-focus-app.github.io/hospital-stay/</id>
+    <updated>2026-11-14T04:20:00+08:00</updated>
+    <summary>How to limit video and game apps during a hospital stay while keeping calls, chats and hospital apps working. For patients, people staying overnight with family, and parents of a child in hospital.</summary>
+  </entry>
+</feed>
