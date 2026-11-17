@@ -6,8 +6,15 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-18T00:20:00+08:00</updated>
+  <updated>2026-11-18T02:20:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Remote parental control or free app limits on the phone itself? OurPact, Norton Family and Ripple</title>
+    <link href="https://ripple-focus-app.github.io/remote-parental-control-or-free-app-limits/"/>
+    <id>https://ripple-focus-app.github.io/remote-parental-control-or-free-app-limits/</id>
+    <updated>2026-11-18T02:20:00+08:00</updated>
+    <summary>OurPact and Norton Family let a parent change rules from another phone. Ripple is free and sets per app limits on the phone itself, for a child's phone or your own.</summary>
+  </entry>
   <entry>
     <title>An app blocker you cannot just switch off: FocusMe, BlockerX and Ripple</title>
     <link href="https://ripple-focus-app.github.io/app-blocker-hard-to-turn-off/"/>
