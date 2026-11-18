@@ -6,8 +6,15 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-18T02:20:00+08:00</updated>
+  <updated>2026-11-19T00:10:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>学校不让带手机了，放学回家和晚上怎么管（安卓和 iPhone）</title>
+    <link href="https://ripple-focus-app.github.io/after-school-zh/"/>
+    <id>https://ripple-focus-app.github.io/after-school-zh/</id>
+    <updated>2026-11-19T00:10:00+08:00</updated>
+    <summary>家长给孩子手机设放学写作业时段、每日时长和睡前时段，成年人把下班后的晚上留给自己。安卓 v0.1.21，iPhone v0.1.5 只有按时段屏蔽。</summary>
+  </entry>
   <entry>
     <title>Remote parental control or free app limits on the phone itself? OurPact, Norton Family and Ripple</title>
     <link href="https://ripple-focus-app.github.io/remote-parental-control-or-free-app-limits/"/>
