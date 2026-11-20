@@ -6,8 +6,22 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-19T00:10:00+08:00</updated>
+  <updated>2026-11-21T07:30:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Block Instagram Reels and YouTube Shorts on Android but keep DMs and normal videos</title>
+    <link href="https://ripple-focus-app.github.io/reels-shorts-android/"/>
+    <id>https://ripple-focus-app.github.io/reels-shorts-android/</id>
+    <updated>2026-11-21T07:30:00+08:00</updated>
+    <summary>Feed switches for Reels and Shorts on Android v0.1.21, for adults and for a child's phone. iPhone v0.1.5 blocks whole apps by schedule only.</summary>
+  </entry>
+  <entry>
+    <title>只关微信视频号和朋友圈，聊天和支付照常用（安卓和 iPhone）</title>
+    <link href="https://ripple-focus-app.github.io/wechat-channels-zh/"/>
+    <id>https://ripple-focus-app.github.io/wechat-channels-zh/</id>
+    <updated>2026-11-21T07:30:00+08:00</updated>
+    <summary>安卓 v0.1.21 只拦视频号、朋友圈，成年人和家长分开说。iPhone v0.1.5 只能按时段屏蔽整个 App。</summary>
+  </entry>
   <entry>
     <title>学校不让带手机了，放学回家和晚上怎么管（安卓和 iPhone）</title>
     <link href="https://ripple-focus-app.github.io/after-school-zh/"/>
