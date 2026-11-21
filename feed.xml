@@ -6,8 +6,22 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-22T04:00:00+08:00</updated>
+  <updated>2026-11-22T05:00:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>When you tap "Ignore Limit" every time: app limits that take effort to skip</title>
+    <link href="https://ripple-focus-app.github.io/ignore-limit/"/>
+    <id>https://ripple-focus-app.github.io/ignore-limit/</id>
+    <updated>2026-11-22T05:00:00+08:00</updated>
+    <summary>Screen Time and Digital Wellbeing limits are easy to skip. Android v0.1.22 limits need a wait or an unlock code to loosen; iPhone v0.1.5 blocks by schedule.</summary>
+  </entry>
+  <entry>
+    <title>时间一到就点「忽略限额」：大人和家长怎么设不容易跳过的限制</title>
+    <link href="https://ripple-focus-app.github.io/ignore-limit-zh/"/>
+    <id>https://ripple-focus-app.github.io/ignore-limit-zh/</id>
+    <updated>2026-11-22T05:00:00+08:00</updated>
+    <summary>涟漪安卓 v0.1.22 放宽规则要等待或解锁码；iPhone v0.1.5 只能按时段屏蔽。</summary>
+  </entry>
   <entry>
     <title>vivo and iQOO app limits that hold, for yourself or a child</title>
     <link href="https://ripple-focus-app.github.io/vivo-app-limits/"/>
