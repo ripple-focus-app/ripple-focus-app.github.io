@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-22T07:00:00+08:00</updated>
+  <updated>2026-11-22T08:00:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Scrolling in bed after the alarm: phone limits for mornings, for adults and kids</title>
+    <link href="https://ripple-focus-app.github.io/morning-phone/"/>
+    <id>https://ripple-focus-app.github.io/morning-phone/</id>
+    <updated>2026-11-22T08:00:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>早上关了闹钟就躺着刷手机，孩子上学前光看视频不穿衣服：安卓和 iPhone 怎么设</title>
+    <link href="https://ripple-focus-app.github.io/morning-phone-zh/"/>
+    <id>https://ripple-focus-app.github.io/morning-phone-zh/</id>
+    <updated>2026-11-22T08:00:00+08:00</updated>
+  </entry>
   <entry>
     <title>Phones at the dinner table: keeping meals screen free for adults and kids</title>
     <link href="https://ripple-focus-app.github.io/mealtime-phone/"/>
