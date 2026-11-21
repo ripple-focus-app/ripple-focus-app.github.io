@@ -6,8 +6,22 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-22T02:00:00+08:00</updated>
+  <updated>2026-11-22T03:05:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>OPPO, OnePlus and realme app limits that hold, for yourself or a child</title>
+    <link href="https://ripple-focus-app.github.io/oppo-app-limits/"/>
+    <id>https://ripple-focus-app.github.io/oppo-app-limits/</id>
+    <updated>2026-11-22T03:05:00+08:00</updated>
+    <summary>Android limits that take a wait or an unlock code to loosen on ColorOS and realme UI, the background settings to check, the floating window gap, and what iPhone v0.1.5 can do.</summary>
+  </entry>
+  <entry>
+    <title>OPPO、一加、真我手机的应用限时总被关掉：大人和家长怎么设</title>
+    <link href="https://ripple-focus-app.github.io/oppo-app-limits-zh/"/>
+    <id>https://ripple-focus-app.github.io/oppo-app-limits-zh/</id>
+    <updated>2026-11-22T03:05:00+08:00</updated>
+    <summary>涟漪安卓 v0.1.22 放宽规则要等待或解锁码，自启动和后台运行要允许，小窗只能遮住要自己关；iPhone v0.1.5 只能按时段屏蔽。</summary>
+  </entry>
   <entry>
     <title>Xiaomi, Redmi and POCO app limits that hold, for yourself or a child</title>
     <link href="https://ripple-focus-app.github.io/xiaomi-app-limits/"/>
