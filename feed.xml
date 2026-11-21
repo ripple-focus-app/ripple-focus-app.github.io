@@ -6,8 +6,22 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-22T05:00:00+08:00</updated>
+  <updated>2026-11-22T06:00:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>App limits reset at midnight: stopping late night scrolling for adults and kids</title>
+    <link href="https://ripple-focus-app.github.io/midnight-reset/"/>
+    <id>https://ripple-focus-app.github.io/midnight-reset/</id>
+    <updated>2026-11-22T06:00:00+08:00</updated>
+    <summary>Daily limits start over at 00:00. Android v0.1.22 overnight schedules keep apps closed until morning; iPhone v0.1.5 blocks by schedule.</summary>
+  </entry>
+  <entry>
+    <title>过了零点应用限额又满了：半夜刷手机的大人和孩子怎么设</title>
+    <link href="https://ripple-focus-app.github.io/midnight-reset-zh/"/>
+    <id>https://ripple-focus-app.github.io/midnight-reset-zh/</id>
+    <updated>2026-11-22T06:00:00+08:00</updated>
+    <summary>涟漪安卓 v0.1.22 跨夜时段管住半夜；iPhone v0.1.5 只能按时段屏蔽。</summary>
+  </entry>
   <entry>
     <title>When you tap "Ignore Limit" every time: app limits that take effort to skip</title>
     <link href="https://ripple-focus-app.github.io/ignore-limit/"/>
