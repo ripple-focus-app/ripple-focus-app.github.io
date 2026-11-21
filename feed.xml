@@ -6,8 +6,22 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-21T13:10:00+08:00</updated>
+  <updated>2026-11-21T18:10:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Samsung Galaxy app timers that you keep switching off: limits that hold, for yourself or a child</title>
+    <link href="https://ripple-focus-app.github.io/samsung-app-limits/"/>
+    <id>https://ripple-focus-app.github.io/samsung-app-limits/</id>
+    <updated>2026-11-21T18:10:00+08:00</updated>
+    <summary>Galaxy app timers are easy to delete. Android v0.1.21 limits that need a wait or an unlock code to loosen, the Never sleeping apps setting, and iPhone v0.1.5 limits.</summary>
+  </entry>
+  <entry>
+    <title>三星手机的应用计时器总被自己关掉：大人和家长怎么设不容易解除的限制</title>
+    <link href="https://ripple-focus-app.github.io/samsung-app-limits-zh/"/>
+    <id>https://ripple-focus-app.github.io/samsung-app-limits-zh/</id>
+    <updated>2026-11-21T18:10:00+08:00</updated>
+    <summary>三星数字健康计时器好删，用涟漪 v0.1.21 设放松要等待或解锁码的限制，记得把涟漪加进永不休眠的应用，iPhone v0.1.5 只能按时段屏蔽。</summary>
+  </entry>
   <entry>
     <title>Exam revision when the phone keeps winning: limits that are slow to undo</title>
     <link href="https://ripple-focus-app.github.io/exam-revision-bypass/"/>
