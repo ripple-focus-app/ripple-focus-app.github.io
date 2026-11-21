@@ -6,8 +6,15 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-21T23:58:00+08:00</updated>
+  <updated>2026-11-22T01:05:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Scrolling on the commute: limiting short video apps on the train and the school bus</title>
+    <link href="https://ripple-focus-app.github.io/commute-scrolling/"/>
+    <id>https://ripple-focus-app.github.io/commute-scrolling/</id>
+    <updated>2026-11-22T01:05:00+08:00</updated>
+    <summary>How to block short video apps during commute hours on your own phone and on a child's phone, while maps, transit tickets and chats keep working. Android v0.1.22 and iPhone v0.1.5.</summary>
+  </entry>
   <entry>
     <title>Winter break screen time: daily app limits for kids at home and for adults on holiday</title>
     <link href="https://ripple-focus-app.github.io/winter-break-phone/"/>
