@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-23T16:30:00+08:00</updated>
+  <updated>2026-11-23T18:30:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Working from home and picking up the phone every few minutes, and a child doing homework at the same table: app limits on Android and iPhone</title>
+    <link href="https://ripple-focus-app.github.io/work-from-home-phone/"/>
+    <id>https://ripple-focus-app.github.io/work-from-home-phone/</id>
+    <updated>2026-11-23T18:30:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>在家办公总忍不住拿手机，孩子在旁边写作业也在玩：安卓和 iPhone 怎么设</title>
+    <link href="https://ripple-focus-app.github.io/work-from-home-phone-zh/"/>
+    <id>https://ripple-focus-app.github.io/work-from-home-phone-zh/</id>
+    <updated>2026-11-23T18:30:00+08:00</updated>
+  </entry>
   <entry>
     <title>Mobile games eating your evenings, and a child who plays one more round: game limits on Android and iPhone</title>
     <link href="https://ripple-focus-app.github.io/mobile-games/"/>
