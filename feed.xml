@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-23T14:30:00+08:00</updated>
+  <updated>2026-11-23T16:30:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Mobile games eating your evenings, and a child who plays one more round: game limits on Android and iPhone</title>
+    <link href="https://ripple-focus-app.github.io/mobile-games/"/>
+    <id>https://ripple-focus-app.github.io/mobile-games/</id>
+    <updated>2026-11-23T16:30:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>手游一打就是一晚上，孩子写完作业就要玩：安卓和 iPhone 怎么限制游戏时间</title>
+    <link href="https://ripple-focus-app.github.io/mobile-games-zh/"/>
+    <id>https://ripple-focus-app.github.io/mobile-games-zh/</id>
+    <updated>2026-11-23T16:30:00+08:00</updated>
+  </entry>
   <entry>
     <title>Black Friday week and shopping apps you keep opening: limits for adults and kids on Android and iPhone</title>
     <link href="https://ripple-focus-app.github.io/black-friday-shopping/"/>
