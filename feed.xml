@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-24T20:40:00+08:00</updated>
+  <updated>2026-11-25T00:20:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Hopping from one app to the next: one daily total for all your limited apps on Android</title>
+    <link href="https://ripple-focus-app.github.io/app-hopping/"/>
+    <id>https://ripple-focus-app.github.io/app-hopping/</id>
+    <updated>2026-11-25T00:20:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>限了一个 App 又去刷另一个：给所有限制的 App 设一个每天总时长</title>
+    <link href="https://ripple-focus-app.github.io/app-hopping-zh/"/>
+    <id>https://ripple-focus-app.github.io/app-hopping-zh/</id>
+    <updated>2026-11-25T00:20:00+08:00</updated>
+  </entry>
   <entry>
     <title>Scrolling on the toilet: how to stop the 30 minute bathroom break on Android and iPhone</title>
     <link href="https://ripple-focus-app.github.io/toilet-scrolling/"/>
