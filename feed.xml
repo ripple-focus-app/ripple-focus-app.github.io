@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-25T00:20:00+08:00</updated>
+  <updated>2026-11-25T15:20:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>App limits on a Huawei or Honor phone, for yourself or a child</title>
+    <link href="https://ripple-focus-app.github.io/honor-huawei-app-limits/"/>
+    <id>https://ripple-focus-app.github.io/honor-huawei-app-limits/</id>
+    <updated>2026-11-25T15:20:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>华为、荣耀手机怎么限制 App 时间：自己用和给孩子用</title>
+    <link href="https://ripple-focus-app.github.io/honor-huawei-app-limits-zh/"/>
+    <id>https://ripple-focus-app.github.io/honor-huawei-app-limits-zh/</id>
+    <updated>2026-11-25T15:20:00+08:00</updated>
+  </entry>
   <entry>
     <title>Hopping from one app to the next: one daily total for all your limited apps on Android</title>
     <link href="https://ripple-focus-app.github.io/app-hopping/"/>
