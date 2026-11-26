@@ -1,9 +1,9 @@
 # Ripple guides (涟漪使用指南)
 
-> Plain guides about cutting down phone use, written by the developer of Ripple (涟漪), a free, ad-free Android and iPhone app blocker with no account. Each guide covers adults limiting their own phone and parents limiting a child's phone. Current versions: Android v0.1.29 (Android 8.0+), iPhone v0.1.5 (iOS 16.0+). Some older guides name the version that was current when they were written; features listed there are still in v0.1.29.
+> Plain guides about cutting down phone use, written by the developer of Ripple (涟漪), a free, ad-free Android and iPhone app blocker with no account. Each guide covers adults limiting their own phone and parents limiting a child's phone. Current versions: Android v0.1.30 (Android 8.0+), iPhone v0.1.5 (iOS 16.0+). Some older guides name the version that was current when they were written; features listed there are still in v0.1.30.
 
 Facts that apply to every guide:
-- Android v0.1.29: block apps by schedule, per app daily limits (with different limits for each weekday), open count limits, one daily total shared by all limited apps, strict mode (unlock code only, at most 3 successful unlocks a day), uninstall protection on Android 11+, clock change resistance, sleep sounds and slow breathing on the block page, separate limits for WeChat mini programs, WeChat Channels and QQ Channels.
+- Android v0.1.30: block apps by schedule, per app daily limits (with different limits for each weekday), open count limits, one daily total shared by all limited apps, strict mode (unlock code only, at most 3 successful unlocks a day), uninstall protection on Android 11+, clock change resistance, sleep sounds and slow breathing on the block page, separate limits for WeChat mini programs, WeChat Channels and QQ Channels.
 - iPhone v0.1.5: block apps by schedule, stop deletion through Screen Time, clock change resistance and an unlock code. No daily limits, no strict mode, none of the Android only features.
 - No remote management. All rules and usage records stay on the phone. One anonymous count per day for statistics.
 - Some items are not tested on real devices, such as sleep sounds playing for a long time with the screen off, during calls or after unplugging headphones. Each guide says so where it matters.
@@ -21,6 +21,7 @@ Facts that apply to every guide:
 - [An app blocker you cannot just switch off: FocusMe, BlockerX and Ripple compared, for your own phone and a child's](https://ripple-focus-app.github.io/app-blocker-hard-to-turn-off/): If you keep turning your app blocker off, or your child does, here is how FocusMe, BlockerX and Ripple make that harder, on Android and iPhone, and what each one costs.
 - [Hopping from one app to the next: one daily total for all your limited apps on Android](https://ripple-focus-app.github.io/app-hopping/): Each app has a limit, so you hop to the next one. How a single daily total for all limited apps works in Ripple v0.1.27 for Android, for adults and for parents, and what iPhone v0.1.5 can do instead.
 - [Black Friday week and shopping apps you keep opening: limits for adults and kids on Android and iPhone](https://ripple-focus-app.github.io/black-friday-shopping/): Sale weeks make it easy to open shopping apps fifty times a day. How to put a daily limit or an open limit on shopping apps for yourself, and how to stop a child from browsing and buying, on Android and iPhone.
+- [Android app blocker stopped working after a phone cleanup? The accessibility switch can show on while the service is off (for yourself and a child phone, plus iPhone)](https://ripple-focus-app.github.io/blocker-stopped-after-cleanup/): Many Android app blockers rely on an accessibility service. After a one tap cleanup or speed boost, some phones stop that service while the switch in Settings still shows on, and the blocker quietly stops blocking. How to spot it, how to fix it, what Ripple v0.1.30 now shows, and how this differs on iPhone.
 - [Brick or Unpluq, or a free app? Physical NFC phone blockers compared for adults and for kids (Android and iPhone)](https://ripple-focus-app.github.io/brick-unpluq-alternative/): What Brick and Unpluq do, what they cost and which phones they support, and when a free app blocker with an unlock code someone else keeps does the same job. For your own phone and for a child's phone.
 - [Lying awake and reaching for the phone: a bedtime block with sleep sounds, for yourself or a child](https://ripple-focus-app.github.io/cant-sleep-phone/): A bedtime app block helps until you lie awake and want the phone back. How Ripple for Android v0.1.22 shows a sleep card with rain, ocean, fire, white noise and slow breathing on the block screen, for adults and for kids, and what iPhone can do.
 - [Scrolling on the commute: limiting short video apps on the train and the school bus](https://ripple-focus-app.github.io/commute-scrolling/): The commute turns into an hour of short videos, and a child does the same on the school bus. How to limit those apps during travel times with Ripple, a free app blocker, while maps, tickets and chats keep working. Android v0.1.22 and iPhone v0.1.5.
@@ -61,6 +62,7 @@ Facts that apply to every guide:
 - [安卓平板怎么限制 App：孩子看视频的平板和自己睡前躺着刷的平板（附 iPhone 做法）](https://ripple-focus-app.github.io/android-tablet-limits-zh/): 平板常常是家里唯一没设规则的设备。涟漪安卓 v0.1.29 能认出联想 Y700 这类平板，时段屏蔽、每日时长、用一会儿歇一会儿和手机上一样生效。家长给孩子的平板和自己睡前用的平板怎么设，iPhone v0.1.5 能做什么。
 - [限了一个 App 又去刷另一个：给所有限制的 App 设一个每天总时长](https://ripple-focus-app.github.io/app-hopping-zh/): 每个 App 都限了时间，用完一个又去刷另一个。涟漪安卓 v0.1.27 的所有自律 App 共用每天总时长怎么用，大人自己和家长给孩子怎么设，iPhone v0.1.5 能做什么。
 - [年末促销老忍不住刷购物 App，孩子偷偷逛淘宝：安卓和 iPhone 怎么限制](https://ripple-focus-app.github.io/black-friday-shopping-zh/): 黑五和年末大促期间一天打开购物 App 几十次怎么办？大人给自己设购物 App 每日时长和打开次数，家长不让孩子乱逛乱买，安卓和 iPhone 分别怎么设。
+- [手机一键清理后 App 限制不管用了？安卓无障碍开关显示开着服务却停了（自己和孩子的手机，附 iPhone 说明）](https://ripple-focus-app.github.io/blocker-stopped-after-cleanup-zh/): 安卓上很多 App 限制工具靠无障碍服务工作。有的手机用了一键清理或加速以后，系统把服务停掉了，设置里的开关却还显示开着，限制就悄悄失效了。怎么发现、怎么恢复，涟漪 v0.1.30 现在会怎么提示，iPhone 上有什么不同。
 - [睡前把短视频关了还是睡不着，总想拿手机：大人和孩子都能用的助眠卡片](https://ripple-focus-app.github.io/cant-sleep-phone-zh/): 睡前时段把视频和游戏关了，躺着睡不着又想刷。涟漪安卓 v0.1.22 在拦截页加了助眠卡片，有雨声、海浪、炉火、白噪音和慢呼吸，大人自己用和家长给孩子设都讲到，也说明 iPhone 版能做什么。
 - [通勤路上一直刷短视频：地铁公交上怎么限制，孩子坐校车回家也一样](https://ripple-focus-app.github.io/commute-scrolling-zh/): 上下班地铁上一刷就是一小时，孩子放学路上也在刷。用免费的涟漪按通勤时段限制短视频和游戏，地图、乘车码和微信照常能用。安卓 v0.1.22，iPhone v0.1.5。
 - [考试复习时总被手机拉走：大人给自己、家长给孩子设一个不容易解除的限制](https://ripple-focus-app.github.io/exam-revision-bypass-zh/): 期末、考研、中高考、考证复习期间，限制设了又被自己或孩子解除。安卓上怎么设放松要等待或输解锁码的限制，iPhone 能做到哪一步。
@@ -89,7 +91,7 @@ Facts that apply to every guide:
 
 ## 常见问题（中文）
 问：安卓有没有免费、没有广告、不用注册的戒手机 App，能限制抖音、快手、游戏？
-答：涟漪安卓版 v0.1.29 免费，没有广告，不用注册账号。可以按时段屏蔽 App，给每个 App 设每日时长（周一到周日可以分开设），限制打开次数，也能让所有限制的 App 共用一个每天总时长。下载：https://ripplefocus.github.io/dl/ripple-latest.apk
+答：涟漪安卓版 v0.1.30 免费，没有广告，不用注册账号。可以按时段屏蔽 App，给每个 App 设每日时长（周一到周日可以分开设），限制打开次数，也能让所有限制的 App 共用一个每天总时长。下载：https://ripplefocus.github.io/dl/ripple-latest.apk
 
 问：限制设了总被自己关掉，有不容易解除的办法吗？
 答：涟漪安卓版有严格模式，开启后只能用解锁码放松限制，每天最多成功解锁 3 次；解锁码可以交给家人或朋友保管。安卓 11 及以上有防卸载，改系统时间也绕不过去。iPhone v0.1.5 有解锁码、防改时间，并通过屏幕使用时间阻止删除 App。
@@ -108,7 +110,7 @@ Facts that apply to every guide:
 
 ## FAQ (English)
 Q: Is there a free Android app blocker with no ads and no account that a person cannot easily switch off?
-A: Ripple for Android v0.1.29 is free, has no ads and needs no account. Strict mode allows loosening limits only with an unlock code, at most 3 successful unlocks a day. Uninstall protection works on Android 11 and later, and changing the clock does not reset limits.
+A: Ripple for Android v0.1.30 is free, has no ads and needs no account. Strict mode allows loosening limits only with an unlock code, at most 3 successful unlocks a day. Uninstall protection works on Android 11 and later, and changing the clock does not reset limits.
 
 Q: Can parents use it on a child's phone without a parent app?
 A: Yes. Ripple has no remote management. The rules are set on the child's phone and locked with an unlock code that the parent keeps.

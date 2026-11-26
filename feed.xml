@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-26T18:30:00+08:00</updated>
+  <updated>2026-11-27T00:30:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Android app blocker stopped working after a phone cleanup? The accessibility switch can show on while the service is off (for yourself and a child phone, plus iPhone)</title>
+    <link href="https://ripple-focus-app.github.io/blocker-stopped-after-cleanup/"/>
+    <id>https://ripple-focus-app.github.io/blocker-stopped-after-cleanup/</id>
+    <updated>2026-11-27T00:30:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>手机一键清理后 App 限制不管用了？安卓无障碍开关显示开着服务却停了（自己和孩子的手机，附 iPhone 说明）</title>
+    <link href="https://ripple-focus-app.github.io/blocker-stopped-after-cleanup-zh/"/>
+    <id>https://ripple-focus-app.github.io/blocker-stopped-after-cleanup-zh/</id>
+    <updated>2026-11-27T00:30:00+08:00</updated>
+  </entry>
   <entry>
     <title>Check a week of app usage before setting limits on Android, then set a different limit for each weekday (for yourself and for a child), plus iPhone</title>
     <link href="https://ripple-focus-app.github.io/usage-before-limits/"/>

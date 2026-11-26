@@ -1,0 +1,34 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Android app blocker stopped working after a phone cleanup? The accessibility switch can show on while the service is off (for yourself and a child phone, plus iPhone)</title>
+<meta name="description" content="Many Android app blockers rely on an accessibility service. After a one tap cleanup or speed boost, some phones stop that service while the switch in Settings still shows on, and the blocker quietly stops blocking. How to spot it, how to fix it, what Ripple v0.1.30 now shows, and how this differs on iPhone.">
+<link rel="canonical" href="https://ripple-focus-app.github.io/blocker-stopped-after-cleanup/">
+<link rel="alternate" hreflang="zh-CN" href="https://ripple-focus-app.github.io/blocker-stopped-after-cleanup-zh/">
+<link rel="alternate" type="application/atom+xml" title="Ripple guides" href="https://ripple-focus-app.github.io/feed.xml">
+<style>body{font:17px/1.6 system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 18px;color:#1d2433}a{color:#2563eb}h1{font-size:28px}h2{font-size:21px;margin-top:28px}</style><script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Android app blocker stopped working after a phone cleanup? The accessibility switch can show on while the serv", "description": "Many Android app blockers rely on an accessibility service. After a one tap cleanup or speed boost, some phones stop that service while the switch in Settings still shows on, and the blocker quietly stops blocking. How to spot it, how to fix it, what Ripple v0.1.30 now shows, and how this differs on iPhone.", "inLanguage": "en", "url": "https://ripple-focus-app.github.io/blocker-stopped-after-cleanup/", "mainEntityOfPage": "https://ripple-focus-app.github.io/blocker-stopped-after-cleanup/", "author": {"@type": "Person", "name": "Ripple developer"}, "datePublished": "2026-11-27T00:30:00+08:00", "dateModified": "2026-11-27T00:30:00+08:00", "about": {"@type": "SoftwareApplication", "name": "Ripple", "applicationCategory": "LifestyleApplication", "operatingSystem": "Android, iOS 16.0+", "url": "https://ripplefocus.github.io/", "downloadUrl": "https://github.com/ripplefocus/ripplefocus.github.io/releases/latest", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}}</script>
+</head><body>
+<h1>The blocker is on, but apps open anyway</h1>
+<p>I am the developer of Ripple, a free app blocker for Android and iPhone with no ads and no account, so keep that in mind. On Android, most app blockers, Ripple included, watch which app is in front through an accessibility service. On some phones, a one tap cleanup, a speed boost or a battery cleaner stops that service. The odd part is that the switch in the system accessibility settings can still show on. Nothing looks wrong, the limit just stops working, and you only notice after an hour of short videos.</p>
+<h2>How to tell</h2>
+<p>The quickest test is to open an app that should be blocked right now. If it opens with no block page, check the blocker first and only then blame yourself. A switch that shows on is not proof that the service is running.</p>
+<h2>How to fix it on any Android phone</h2>
+<p>Open the system accessibility settings, find the blocker under installed or downloaded apps, turn it off, turn it on again and tap Allow. Then test with a blocked app again. It also helps to take the blocker out of the cleanup list or the auto clean whitelist in your phone manager app if your phone has one. The names of these menus differ between brands.</p>
+<h2>What Ripple shows since v0.1.30</h2>
+<p>Ripple for Android v0.1.30 (Android 8.0 and later) checks for this case. When the service is stopped while the switch still shows on, the top of the home screen says Ripple is not blocking. The home screen card, the restore blocking page and a notification give the same steps as above, and tapping the card opens the system accessibility settings. The notification shows once each time the service gets stuck and goes away when it connects again.</p>
+<p>To be honest about testing: the detection and the prompts passed tests, and on an OPPO phone the service came back normally after an update install with no false alert. The stuck state itself has not been reproduced on a real phone yet. If you hit it and the warning does not show, I would like to know.</p>
+<h2>On your own phone</h2>
+<p>If you run a cleaner every evening, the stuck state is likely to show up at night, which is when most people want limits the most. Daily limits, strict mode with an unlock code and uninstall protection on Android 11 and later all depend on the service running, so it is worth testing once after each cleanup until you know how your phone behaves.</p>
+<h2>On a child's phone</h2>
+<p>Children find out quickly that a cleanup makes the limit go away, sometimes by accident. Ripple has no remote control and no parent app, so the warning only appears on the child's phone. When you pick up the phone, look at the top of the Ripple home screen. Keep the unlock code yourself, and turn on Anti-Uninstall on Android 11 and later.</p>
+<h2>iPhone</h2>
+<p>Ripple for iPhone is v0.1.5 and needs iOS 16 or later. It blocks through the system Screen Time framework, not an accessibility service, and this release did not change the iPhone app. It can block apps during time windows you choose, stop deleting apps through Screen Time, resist clock changes and use an unlock code. It has no daily limits and no strict mode.</p>
+<h2>What it cannot do</h2>
+<p>Ripple only works on the phone it is installed on. It does not filter websites. Rules and usage records stay on the phone.</p>
+<h2>Links</h2>
+<ul>
+<li><a href="https://ripplefocus.github.io/">Ripple website</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-latest.apk">Latest Android APK</a> · <a href="https://github.com/ripplefocus/ripplefocus.github.io/releases/latest">Latest GitHub release</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-v0.1.5.ipa">iPhone v0.1.5 (.ipa)</a></li>
+<li><a href="../blocker-stopped-after-cleanup-zh/" lang="zh-CN">中文</a></li>
+</ul>
+<p><a href="../">More Ripple guides</a></p>
+</body></html>
