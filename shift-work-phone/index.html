@@ -1,0 +1,30 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Shift work and phone limits: night shifts, rotating rosters and a child home alone in the evening (Android and iPhone)</title>
+<meta name="description" content="Most phone limit advice assumes a nine to five day. If you work nights or a rotating roster, a fixed bedtime block does not fit. How to set Android limits by weekday and by time window around shifts, what to do for a child who is home alone while you work, and what Ripple for iPhone v0.1.5 can and cannot do.">
+<link rel="canonical" href="https://ripple-focus-app.github.io/shift-work-phone/">
+<link rel="alternate" hreflang="zh-CN" href="https://ripple-focus-app.github.io/shift-work-phone-zh/">
+<link rel="alternate" type="application/atom+xml" title="Ripple guides" href="https://ripple-focus-app.github.io/feed.xml">
+<style>body{font:17px/1.6 system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 18px;color:#1d2433}a{color:#2563eb}h1{font-size:28px}h2{font-size:21px;margin-top:28px}</style><script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Shift work and phone limits: night shifts, rotating rosters and a child home alone in the evening (Android and", "description": "Most phone limit advice assumes a nine to five day. If you work nights or a rotating roster, a fixed bedtime block does not fit. How to set Android limits by weekday and by time window around shifts, what to do for a child who is home alone while you work, and what Ripple for iPhone v0.1.5 can and cannot do.", "inLanguage": "en", "url": "https://ripple-focus-app.github.io/shift-work-phone/", "mainEntityOfPage": "https://ripple-focus-app.github.io/shift-work-phone/", "author": {"@type": "Person", "name": "Ripple developer"}, "datePublished": "2026-11-27T00:30:00+08:00", "dateModified": "2026-11-27T00:30:00+08:00", "about": {"@type": "SoftwareApplication", "name": "Ripple", "applicationCategory": "LifestyleApplication", "operatingSystem": "Android, iOS 16.0+", "url": "https://ripplefocus.github.io/", "downloadUrl": "https://github.com/ripplefocus/ripplefocus.github.io/releases/latest", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}}</script>
+</head><body>
+<h1>Phone limits when your days are not nine to five</h1>
+<p>I am the developer of Ripple, a free app blocker for Android and iPhone with no ads and no account, so keep that in mind. Most advice about phone limits says to block apps from 23:00 to 7:00. That does not help a nurse who sleeps from 9:00 to 16:00 after a night shift, or a factory worker whose roster changes every week. It also misses the parent who is at work in the evening while a child is home with the phone.</p>
+<h2>Your own phone after a night shift</h2>
+<p>The hard hour is usually right after the shift. You are tired, you lie down, and you open short videos for "five minutes". On Android, Ripple can block chosen apps during a time window, and a window can cross midnight, for example 21:30 to 7:00. You can also pick which weekdays a window applies to. If your night shifts fall on fixed weekdays, make one window for the sleep after those shifts, such as 8:30 to 15:30 on Tuesday and Wednesday.</p>
+<p>If the roster moves every week, a daily limit tends to work better than a window. Since v0.1.25 each limited app can have a different daily limit for each day of the week, and a day can be set to no limit or to 0 minutes. When the roster comes out, open the app's limit page and adjust the coming week in a minute or two. Making a limit tighter takes effect right away. Loosening any day has to wait first, 15 minutes by default, with 30 minutes, 1 hour or 2 hours as other choices, unless you enter the unlock code.</p>
+<p>One honest note: the new day starts at 0:00 on the phone's clock, not when you wake up. If you work through the night, usage after midnight counts toward the next date. The weekday page and the switch to the new day's limit at 0:00 have passed unit tests but have not been checked on a real phone yet, so it is worth opening the limit page once the next morning to see that day's number.</p>
+<h2>A child home alone while you work</h2>
+<p>Ripple has no remote control and no parent app, so you set the rules on the child's phone before you leave. A window on school nights, such as 20:30 to 7:00 Monday to Thursday, covers the evenings you are not there. Calls, texts and alarms are not blocked, and on WeChat you can limit Channels and mini programs while chats keep working, so the child can still reach you.</p>
+<p>Keep the unlock code yourself. With "unlock code only" turned on (the code must be 8 to 12 digits), waiting cannot loosen the rules, and there are at most 3 successful unlocks a day. On Android 11 and later, turn on uninstall protection. Changing the phone's date or time does not add time.</p>
+<h2>iPhone</h2>
+<p>Ripple for iPhone is v0.1.5 and needs iOS 16 or later. It can block apps during time windows you choose, stop deleting apps through Screen Time, resist clock changes and use an unlock code. It has no daily limits and no per weekday limits. With a rotating roster, the system Screen Time app limits are the place for daily totals, and Ripple windows can cover the sleep after a shift.</p>
+<h2>What it cannot do</h2>
+<p>Ripple only works on the phone it is installed on. It does not filter websites. Rules and usage records stay on the phone.</p>
+<h2>Links</h2>
+<ul>
+<li><a href="https://ripplefocus.github.io/">Ripple website</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-latest.apk">Latest Android APK</a> · <a href="https://github.com/ripplefocus/ripplefocus.github.io/releases/latest">Latest GitHub release</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-v0.1.5.ipa">iPhone v0.1.5 (.ipa)</a></li>
+<li><a href="../shift-work-phone-zh/" lang="zh-CN">中文</a></li>
+</ul>
+<p><a href="../">More Ripple guides</a></p>
+</body></html>
