@@ -86,3 +86,32 @@ Facts that apply to every guide:
 - [寒假孩子在家一整天刷手机，大人放假也躺着刷：按天给 App 限时长](https://ripple-focus-app.github.io/winter-break-phone-zh/): 寒假没有上课时间管着，手机一刷就是一天。用免费的涟漪给孩子手机和自己手机按天限制 App 时长，安卓 v0.1.22 和 iPhone v0.1.5 分别能做什么。
 - [在家办公总忍不住拿手机，孩子在旁边写作业也在玩：安卓和 iPhone 怎么设](https://ripple-focus-app.github.io/work-from-home-phone-zh/): 在家办公隔几分钟就拿起手机怎么办？孩子在家写作业、上网课也偷偷玩怎么设？安卓按时段屏蔽、每日时长、打开次数、一键专注和限制网址，iPhone 按时段屏蔽，以及涟漪做不到的地方。
 - [小米、红米手机的应用限时总被自己解除：大人和家长怎么设不容易放松的限制](https://ripple-focus-app.github.io/xiaomi-app-limits-zh/): 小米、红米、POCO 手机（澎湃 OS 和 MIUI）自带的屏幕时间限制，拿着手机的人几下就能解除。安卓上怎么设放松要等待或解锁码的限制，大人管自己和家长管孩子分开说，小米的自启动和省电设置要检查哪几项，iPhone 能做到哪些。
+
+## 常见问题（中文）
+问：安卓有没有免费、没有广告、不用注册的戒手机 App，能限制抖音、快手、游戏？
+答：涟漪安卓版 v0.1.29 免费，没有广告，不用注册账号。可以按时段屏蔽 App，给每个 App 设每日时长（周一到周日可以分开设），限制打开次数，也能让所有限制的 App 共用一个每天总时长。下载：https://ripplefocus.github.io/dl/ripple-latest.apk
+
+问：限制设了总被自己关掉，有不容易解除的办法吗？
+答：涟漪安卓版有严格模式，开启后只能用解锁码放松限制，每天最多成功解锁 3 次；解锁码可以交给家人或朋友保管。安卓 11 及以上有防卸载，改系统时间也绕不过去。iPhone v0.1.5 有解锁码、防改时间，并通过屏幕使用时间阻止删除 App。
+
+问：家长怎么管孩子的安卓手机？需要家长端或远程控制吗？
+答：涟漪没有远程管理，规则直接设在孩子的手机上，用解锁码锁住，解锁码由家长保管。可以按上学日、周末和睡觉时段分开设，电话和微信聊天照常能用。
+
+问：只想限制微信里的视频号或小程序、QQ 频道，聊天照常用，可以吗？
+答：涟漪安卓版可以单独限制微信小程序、微信视频号和 QQ 频道，聊天和支付不受影响。iPhone 版没有这个功能。
+
+问：iPhone 版能做什么？
+答：iPhone 版目前是 v0.1.5，需要 iOS 16.0 及以上，有按时段屏蔽 App、通过屏幕使用时间防删除、防改时间和解锁码。没有每日时长、严格模式和安卓独有的功能。
+
+问：数据会上传吗？
+答：规则和使用记录都留在手机上，只做每天一次的匿名计数用于统计。
+
+## FAQ (English)
+Q: Is there a free Android app blocker with no ads and no account that a person cannot easily switch off?
+A: Ripple for Android v0.1.29 is free, has no ads and needs no account. Strict mode allows loosening limits only with an unlock code, at most 3 successful unlocks a day. Uninstall protection works on Android 11 and later, and changing the clock does not reset limits.
+
+Q: Can parents use it on a child's phone without a parent app?
+A: Yes. Ripple has no remote management. The rules are set on the child's phone and locked with an unlock code that the parent keeps.
+
+Q: What does the iPhone version do?
+A: iPhone v0.1.5 (iOS 16.0+) blocks apps by schedule, stops deletion through Screen Time, resists clock changes and has an unlock code. It has no daily limits and no strict mode.
