@@ -1,0 +1,32 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>先看一周用了多久再定限额：安卓按星期给每个 App 设时长（自己和孩子的手机，附 iPhone 做法）</title>
+<meta name="description" content="凭感觉定的限额，要么太紧坚持不了，要么太松没用。涟漪安卓版能看单个 App 最近 7 天和 30 天每天用了多久，还能按星期给每个 App 分别设每日时长。自己手机和孩子手机怎么用，iPhone v0.1.5 能做什么。">
+<link rel="canonical" href="https://ripple-focus-app.github.io/usage-before-limits-zh/">
+<link rel="alternate" hreflang="en" href="https://ripple-focus-app.github.io/usage-before-limits/">
+<link rel="alternate" type="application/atom+xml" title="Ripple guides" href="https://ripple-focus-app.github.io/feed.xml">
+<style>body{font:17px/1.8 system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 18px;color:#1d2433}a{color:#2563eb}h1{font-size:26px}h2{font-size:20px;margin-top:28px}</style><script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "先看一周用了多久再定限额：安卓按星期给每个 App 设时长（自己和孩子的手机，附 iPhone 做法）", "description": "凭感觉定的限额，要么太紧坚持不了，要么太松没用。涟漪安卓版能看单个 App 最近 7 天和 30 天每天用了多久，还能按星期给每个 App 分别设每日时长。自己手机和孩子手机怎么用，iPhone v0.1.5 能做什么。", "inLanguage": "zh-CN", "url": "https://ripple-focus-app.github.io/usage-before-limits-zh/", "mainEntityOfPage": "https://ripple-focus-app.github.io/usage-before-limits-zh/", "author": {"@type": "Person", "name": "Ripple developer"}, "datePublished": "2026-11-26T18:30:00+08:00", "dateModified": "2026-11-26T18:30:00+08:00", "about": {"@type": "SoftwareApplication", "name": "涟漪 Ripple", "applicationCategory": "LifestyleApplication", "operatingSystem": "Android, iOS 16.0+", "url": "https://ripplefocus.github.io/", "downloadUrl": "https://github.com/ripplefocus/ripplefocus.github.io/releases/latest", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}}</script>
+</head><body>
+<h1>先看一周用了多久，再定限额</h1>
+<p>先说明，我是涟漪的开发者，涟漪是免费的手机限制 App，没有广告，不用注册。很多人放弃限额，是因为数字是拍脑袋定的。每天刷 30 分钟短视频听着挺合理，可实际上一直在刷三个小时，到周三就把限额关了。家长给孩子定一个统一的规则，上学日和周六一个样，也容易执行不下去。</p>
+<h2>第一步：看这个 App 实际用了多久</h2>
+<p>安卓 v0.1.27 起，在单个 App 的限制页点「每天用了多久」，或者在使用统计里点某一天的「按 App 看」再点这个 App，就能看到它最近 7 天和 30 天每天用了多久，页面上有日均、最多的一天和合计。今天还没过完，不算进日均和最多的一天。没有记录的日子画成斜纹，日均只算有记录的日子。数据用的是使用统计原来就存的记录，没有多收集什么。</p>
+<h2>第二步：按星期设每天的时长</h2>
+<p>v0.1.25 起，单个 App 的限制页里有「按星期设置」，周一到周日可以各设一个时长。某一天可以选「不限」，也可以设 0 分钟，那一天整天打不开。「快捷设置」可以一次改好工作日（周一到周五）或周末（周六周日）。拦截页、提前倒计时和今日用量都按当天的时长算。以前设的每日时长升级后还是每天一样。现在的最新版是 v0.1.29。</p>
+<p>收紧的改动保存后马上生效。改动里只要有一天放宽了，整次改动都要先等一会儿再生效，默认 15 分钟，也可以选 30 分钟、1 小时、2 小时，输解锁码可以直接生效。这个功能发布时，按星期设置的页面和零点切换成新一天的时长只做过单元测试，还没在真机上验证，设好后第二天早上建议打开限制页看一眼今天是多少分钟。</p>
+<h2>自己的手机</h2>
+<p>比较好坚持的做法是先按第一步看到的日均少设一点，过一两周再往下调。如果几个 App 来回换着刷，还可以打开「所有自律 App 共用」的每天总时长，默认是关的，0 点重新计算。</p>
+<h2>孩子的手机</h2>
+<p>涟漪没有远程管理，也没有家长端，用量要在孩子的手机上看，最好和孩子一起看。上学日给游戏和短视频少一点时间，周末多一点。解锁码家长自己留着。打开「只能用解锁码」后（要用 8 到 12 位数字），等待也放松不了规则。安卓 11 及以上可以开防卸载，改系统时间也不会多出时间。</p>
+<h2>iPhone</h2>
+<p>涟漪 iPhone 版是 v0.1.5，需要 iOS 16 及以上。它没有用量页，也没有每日时长，能在设定的时段屏蔽 App，能通过屏幕使用时间禁止删除 App，防改时间，用解锁码。iPhone 上的第一步可以直接看系统设置里的「屏幕使用时间」，那里有每个 App 每天和每周的用量。</p>
+<h2>做不到的</h2>
+<p>涟漪只管装了它的这台手机，不过滤网页。用量记录只存在这台手机上。</p>
+<h2>链接</h2>
+<ul>
+<li><a href="https://ripplefocus.github.io/">涟漪官网</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-latest.apk">安卓最新版 APK</a> · <a href="https://github.com/ripplefocus/ripplefocus.github.io/releases/latest">GitHub 最新发布</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-v0.1.5.ipa">iPhone v0.1.5（.ipa）</a></li>
+<li><a href="../usage-before-limits/" lang="en">English</a></li>
+</ul>
+<p><a href="../">更多涟漪指南</a></p>
+</body></html>

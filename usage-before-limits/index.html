@@ -1,0 +1,32 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Check a week of app usage before setting limits on Android, then set a different limit for each weekday (for yourself and for a child), plus iPhone</title>
+<meta name="description" content="A limit picked from a guess is often too tight to keep or too loose to matter. Ripple for Android shows how long one app was used each day over the last 7 and 30 days, and lets you set a separate daily limit for each day of the week. How to use both on your own phone and a child phone, and what iPhone v0.1.5 can do.">
+<link rel="canonical" href="https://ripple-focus-app.github.io/usage-before-limits/">
+<link rel="alternate" hreflang="zh-CN" href="https://ripple-focus-app.github.io/usage-before-limits-zh/">
+<link rel="alternate" type="application/atom+xml" title="Ripple guides" href="https://ripple-focus-app.github.io/feed.xml">
+<style>body{font:17px/1.6 system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 18px;color:#1d2433}a{color:#2563eb}h1{font-size:28px}h2{font-size:21px;margin-top:28px}</style><script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Check a week of app usage before setting limits on Android, then set a different limit for each weekday (for y", "description": "A limit picked from a guess is often too tight to keep or too loose to matter. Ripple for Android shows how long one app was used each day over the last 7 and 30 days, and lets you set a separate daily limit for each day of the week. How to use both on your own phone and a child phone, and what iPhone v0.1.5 can do.", "inLanguage": "en", "url": "https://ripple-focus-app.github.io/usage-before-limits/", "mainEntityOfPage": "https://ripple-focus-app.github.io/usage-before-limits/", "author": {"@type": "Person", "name": "Ripple developer"}, "datePublished": "2026-11-26T18:30:00+08:00", "dateModified": "2026-11-26T18:30:00+08:00", "about": {"@type": "SoftwareApplication", "name": "Ripple", "applicationCategory": "LifestyleApplication", "operatingSystem": "Android, iOS 16.0+", "url": "https://ripplefocus.github.io/", "downloadUrl": "https://github.com/ripplefocus/ripplefocus.github.io/releases/latest", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}}</script>
+</head><body>
+<h1>Look at a week of usage first, then set the limit</h1>
+<p>I am the developer of Ripple, a free app blocker with no ads and no account, so keep that in mind. A common way to give up on limits is to pick a number from a guess. Thirty minutes of short videos a day sounds reasonable until you see you were at three hours, and the limit gets switched off by Wednesday. Parents run into the same thing when they set one rule for a child and it ignores the difference between a school day and a Saturday.</p>
+<h2>Step 1: see how long the app was really used</h2>
+<p>Since Android v0.1.27, open the limit page of one app and tap the daily usage item, or open usage stats, pick a day, view it by app and tap the app. You see how long that app was used each day over the last 7 days and the last 30 days, with the daily average, the busiest day and the total. Today is left out of the average and the busiest day because it is not over yet. Days with no record are drawn with stripes and do not count toward the average. The page reads the usage records Ripple already keeps, so nothing new is collected.</p>
+<h2>Step 2: set a limit for each day of the week</h2>
+<p>Since v0.1.25, the limit page of an app has a per weekday setting. Monday to Sunday can each have their own time. A day can be unlimited, or set to 0 minutes so the app does not open at all that day. Quick settings change Monday to Friday together or Saturday and Sunday together. The block page, the early countdown and today's usage all follow the limit for the current day. Old limits move over unchanged, the same time on every day. The current version is v0.1.29.</p>
+<p>Tightening a rule takes effect when you save. If an edit loosens any single day, the whole edit waits, 15 minutes by default or 30 minutes, 1 hour or 2 hours if you pick a longer wait, unless you enter the unlock code. When Ripple released this, the per weekday page and the switch to the new day's limit at midnight had only passed unit tests and had not been checked on a real phone, so look at the limit page the first morning after you set it.</p>
+<h2>On your own phone</h2>
+<p>A practical start is to set each day a little under your real average from step 1 and lower it again after a week or two. If you jump between several apps, there is also a daily total shared by all limited apps. It is off by default and starts again at 00:00.</p>
+<h2>On a child's phone</h2>
+<p>Ripple has no remote control and no parent app, so you look at the usage page on the child's phone, ideally together with the child. School days can get a short time for games and short videos and the weekend a longer one. Keep the unlock code yourself. With unlock code only mode, which needs an 8 to 12 digit code, waiting no longer loosens anything. On Android 11 and later Anti-Uninstall stops the app from being removed, and changing the clock does not add time.</p>
+<h2>iPhone</h2>
+<p>Ripple for iPhone is v0.1.5 and needs iOS 16 or later. It has no usage page and no daily limits. It can block apps during time windows you choose, prevent deleting apps through Screen Time, resist clock changes and use an unlock code. For the first step on an iPhone, Screen Time in the system Settings already shows how long each app was used per day and per week.</p>
+<h2>What it cannot do</h2>
+<p>Ripple only works on the phone it is installed on. It does not filter websites. Usage records stay on the phone.</p>
+<h2>Links</h2>
+<ul>
+<li><a href="https://ripplefocus.github.io/">Ripple website</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-latest.apk">Latest Android APK</a> · <a href="https://github.com/ripplefocus/ripplefocus.github.io/releases/latest">Latest GitHub release</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-v0.1.5.ipa">iPhone v0.1.5 (.ipa)</a></li>
+<li><a href="../usage-before-limits-zh/" lang="zh-CN">中文</a></li>
+</ul>
+<p><a href="../">More Ripple guides</a></p>
+</body></html>
