@@ -16,6 +16,7 @@ Facts that apply to every guide:
 - [Main site llms.txt](https://ripplefocus.github.io/llms.txt)
 
 ## English guides
+- [Limiting WeChat Mini Programs and mini games on Android without blocking WeChat chats, for kids and adults, plus the iPhone option](https://ripple-focus-app.github.io/wechat-mini-games/): Mini games and Mini Programs live inside WeChat, so blocking the whole app also cuts off chats and payments. Ripple for Android can limit only WeChat Mini Programs, block them right away or after a few minutes, and keep chats, Moments and Pay working. Setup for a child and for yourself, and what iPhone v0.1.5 can do.
 - [Limiting apps on an Android tablet: a child's video tablet or your own tablet in bed, with Ripple, plus the iPhone option](https://ripple-focus-app.github.io/android-tablet-limits/): Tablets often end up as the device with no rules. Ripple for Android v0.1.29 now recognises tablets such as the Lenovo Y700 and applies schedules, daily limits and Take a Break the same way as on a phone. Setup for a child and for yourself, and what iPhone v0.1.5 can do.
 - [Android 17 parental controls without Family Link, and what to use on older phones](https://ripple-focus-app.github.io/android-17-parental-controls/): Android 17 adds Parental controls in Settings with a PIN: daily limit, downtime, app limits and blocked apps, no Google account needed. How it works, what it leaves out, and a free option for phones on Android 8 to 16 or for your own phone.
 - [An app blocker you cannot just switch off: FocusMe, BlockerX and Ripple compared, for your own phone and a child's](https://ripple-focus-app.github.io/app-blocker-hard-to-turn-off/): If you keep turning your app blocker off, or your child does, here is how FocusMe, BlockerX and Ripple make that harder, on Android and iPhone, and what each one costs.
@@ -54,6 +55,7 @@ Facts that apply to every guide:
 - [A YourHour or Regain alternative without ads or Pro: for your own phone and a child's phone](https://ripple-focus-app.github.io/yourhour-regain-alternative/): YourHour has ads and Pro plans, Regain puts strict mode and Pomodoro in Pro. What each does well, and what a free Android app blocker with daily limits and an unlock code someone else keeps can do instead.
 
 ## 中文指南
+- [微信小游戏、小程序一玩就停不下来：只限制小程序，聊天和支付照常用（孩子和大人，附 iPhone 做法）](https://ripple-focus-app.github.io/wechat-mini-games-zh/): 小游戏和小程序都在微信里面，整个微信禁掉连聊天和支付也用不了。涟漪安卓版可以只限制微信小程序，直接拦或先给几分钟，聊天、朋友圈和支付照常用。孩子手机和自己手机怎么设，iPhone v0.1.5 能做什么。
 - [安卓平板怎么限制 App：孩子看视频的平板和自己睡前躺着刷的平板（附 iPhone 做法）](https://ripple-focus-app.github.io/android-tablet-limits-zh/): 平板常常是家里唯一没设规则的设备。涟漪安卓 v0.1.29 能认出联想 Y700 这类平板，时段屏蔽、每日时长、用一会儿歇一会儿和手机上一样生效。家长给孩子的平板和自己睡前用的平板怎么设，iPhone v0.1.5 能做什么。
 - [学校不让带手机了，放学回家和晚上怎么管？孩子和大人的手机限制设置（安卓和 iPhone）](https://ripple-focus-app.github.io/after-school-zh/): 学校上课期间收手机，放学后和晚上手机又回到手里。这篇讲家长怎么给孩子手机设放学后的时长和睡前时段，也讲上班族怎么把下班后的晚上留给自己。安卓和 iPhone 分开说，电话和微信聊天照常能用。
 - [安卓 17 自带的家长控制怎么用，旧手机和大人自己用怎么办](https://ripple-focus-app.github.io/android-17-parental-controls-zh/): 安卓 17 在设置里加了家长控制：设一个 PIN 就能限制整机每日时长、停用时段、单个 App 时长和屏蔽 App，不用谷歌账号。它的限制在哪里，安卓 8 到 16 的手机或者大人给自己设限可以用什么免费工具。

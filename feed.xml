@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-26T12:30:00+08:00</updated>
+  <updated>2026-11-26T15:30:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Limiting WeChat Mini Programs and mini games on Android without blocking WeChat chats, for kids and adults, plus the iPhone option</title>
+    <link href="https://ripple-focus-app.github.io/wechat-mini-games/"/>
+    <id>https://ripple-focus-app.github.io/wechat-mini-games/</id>
+    <updated>2026-11-26T15:30:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>微信小游戏、小程序一玩就停不下来：只限制小程序，聊天和支付照常用（孩子和大人，附 iPhone 做法）</title>
+    <link href="https://ripple-focus-app.github.io/wechat-mini-games-zh/"/>
+    <id>https://ripple-focus-app.github.io/wechat-mini-games-zh/</id>
+    <updated>2026-11-26T15:30:00+08:00</updated>
+  </entry>
   <entry>
     <title>Limiting apps on an Android tablet: a child's video tablet or your own tablet in bed, with Ripple, plus the iPhone option</title>
     <link href="https://ripple-focus-app.github.io/android-tablet-limits/"/>
