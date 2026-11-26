@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-26T06:30:00+08:00</updated>
+  <updated>2026-11-26T12:30:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Limiting apps on an Android tablet: a child's video tablet or your own tablet in bed, with Ripple, plus the iPhone option</title>
+    <link href="https://ripple-focus-app.github.io/android-tablet-limits/"/>
+    <id>https://ripple-focus-app.github.io/android-tablet-limits/</id>
+    <updated>2026-11-26T12:30:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>安卓平板怎么限制 App：孩子看视频的平板和自己睡前躺着刷的平板（附 iPhone 做法）</title>
+    <link href="https://ripple-focus-app.github.io/android-tablet-limits-zh/"/>
+    <id>https://ripple-focus-app.github.io/android-tablet-limits-zh/</id>
+    <updated>2026-11-26T12:30:00+08:00</updated>
+  </entry>
   <entry>
     <title>Forced breaks after long phone sessions: Take a Break on Android for yourself or a child, and the iPhone option</title>
     <link href="https://ripple-focus-app.github.io/take-a-break/"/>
