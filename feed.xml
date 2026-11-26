@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-27T03:40:00+08:00</updated>
+  <updated>2026-11-27T06:30:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Scrolling during night feeds with a new baby, and an older child on the phone while you are busy (Android and iPhone)</title>
+    <link href="https://ripple-focus-app.github.io/new-baby-night-feeds/"/>
+    <id>https://ripple-focus-app.github.io/new-baby-night-feeds/</id>
+    <updated>2026-11-27T06:30:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>家里有了新生儿：夜里喂奶时一直刷手机，大孩子趁大人忙抱着手机不放，怎么设限制（安卓和 iPhone）</title>
+    <link href="https://ripple-focus-app.github.io/new-baby-night-feeds-zh/"/>
+    <id>https://ripple-focus-app.github.io/new-baby-night-feeds-zh/</id>
+    <updated>2026-11-27T06:30:00+08:00</updated>
+  </entry>
   <entry>
     <title>Shift work and phone limits: night shifts, rotating rosters and a child home alone in the evening (Android and iPhone)</title>
     <link href="https://ripple-focus-app.github.io/shift-work-phone/"/>
