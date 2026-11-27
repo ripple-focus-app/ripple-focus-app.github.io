@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-28T00:20:00+08:00</updated>
+  <updated>2026-11-28T04:30:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Refreshing news and forum apps all day: limiting feed apps on Android and iPhone (for yourself and for a teenager reading threads at night)</title>
+    <link href="https://ripple-focus-app.github.io/news-feed-apps/"/>
+    <id>https://ripple-focus-app.github.io/news-feed-apps/</id>
+    <updated>2026-11-28T04:30:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>新闻和论坛 App 一天刷几十遍：安卓和 iPhone 怎么限制资讯 App（自己用和孩子半夜刷帖）</title>
+    <link href="https://ripple-focus-app.github.io/news-feed-apps-zh/"/>
+    <id>https://ripple-focus-app.github.io/news-feed-apps-zh/</id>
+    <updated>2026-11-28T04:30:00+08:00</updated>
+  </entry>
   <entry>
     <title>One more episode of a short drama: limiting short drama apps on Android and iPhone (for yourself and for a child who watches them in bed)</title>
     <link href="https://ripple-focus-app.github.io/short-drama-apps/"/>
