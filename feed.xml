@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-27T06:30:00+08:00</updated>
+  <updated>2026-11-27T09:20:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>Need a 2FA code or your VPN while your phone is locked? How Ripple handles authenticator and proxy apps (Android and iPhone)</title>
+    <link href="https://ripple-focus-app.github.io/authenticator-during-lock/"/>
+    <id>https://ripple-focus-app.github.io/authenticator-during-lock/</id>
+    <updated>2026-11-27T09:20:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>手机锁着却要查验证码、开代理怎么办：涟漪对身份验证器和代理 App 的处理（安卓和 iPhone）</title>
+    <link href="https://ripple-focus-app.github.io/authenticator-during-lock-zh/"/>
+    <id>https://ripple-focus-app.github.io/authenticator-during-lock-zh/</id>
+    <updated>2026-11-27T09:20:00+08:00</updated>
+  </entry>
   <entry>
     <title>Scrolling during night feeds with a new baby, and an older child on the phone while you are busy (Android and iPhone)</title>
     <link href="https://ripple-focus-app.github.io/new-baby-night-feeds/"/>

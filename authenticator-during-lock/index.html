@@ -1,0 +1,34 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Need a 2FA code or your VPN while your phone is locked? How Ripple handles authenticator and proxy apps (Android and iPhone)</title>
+<meta name="description" content="A strict phone lock is useless if it also blocks the authenticator code you need to log in at work, or the proxy app you need to reach a site. Since Android v0.1.31 Ripple always allows common authenticator apps, Clash proxy apps and built in tools, even in Complete Lock. What that covers, what is not tested yet, and the iPhone side.">
+<link rel="canonical" href="https://ripple-focus-app.github.io/authenticator-during-lock/">
+<link rel="alternate" hreflang="zh-CN" href="https://ripple-focus-app.github.io/authenticator-during-lock-zh/">
+<link rel="alternate" type="application/atom+xml" title="Ripple guides" href="https://ripple-focus-app.github.io/feed.xml">
+<style>body{font:17px/1.6 system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 18px;color:#1d2433}a{color:#2563eb}h1{font-size:28px}h2{font-size:21px;margin-top:28px}</style></head><body>
+<h1>Locked phone, but you need a login code</h1>
+<p>I am the developer of Ripple, a free app blocker for Android and iPhone with no ads and no account, so keep that in mind. A common reason people turn off a strict blocker is small and practical. The laptop asks for a two factor code, the code lives in an authenticator app on the phone, and the phone is in a lock until 18:00. Or the proxy app has to be switched on before a work site loads. After one or two of these, many people delete the blocker. Parents hit the same thing when a teenager needs a code for a school account during a locked evening.</p>
+<h2>What changed in Android v0.1.31</h2>
+<p>From v0.1.31 these apps are allowed by default and open even during Complete Lock:</p>
+<ul>
+<li>Authenticator apps: Google Authenticator, Microsoft Authenticator, Authy, Aegis, 2FAS, FreeOTP and FreeOTP+.</li>
+<li>Clash proxy apps: Clash for Android, Clash Meta for Android and FlClash.</li>
+<li>The built in calculator, recorder, notes, weather, compass, radio and translator on OPPO, OnePlus, Xiaomi, vivo, Huawei, Honor, Samsung, Pixel and Meizu phones.</li>
+</ul>
+<p>They take no slots in Allowed in Focus and do not count toward the daily total for the whole phone. On the Allowed in Focus page they are listed under These apps always work and take no slots, so you can see exactly what stays open.</p>
+<h2>What is still limited</h2>
+<p>Short video, games, shopping and anything else you put in your rules work the same as before. Third party apps with a dialer inside, such as carrier service apps, used to slip through as the phone app. They now follow your normal rules. Calls and texts through the system Phone and Messages apps keep working.</p>
+<h2>Known limits</h2>
+<p>v0.1.31 was installed as an update on an OPPO phone and the accessibility service reconnected. The newly allowed apps have not each been opened on a real phone during Complete Lock yet. If you depend on one for work, open it once during a short test lock before you rely on it. The weather app on some phones has news or ad sections, and that stays open too. An authenticator app not in the list above is treated like any other app, so add it to Allowed in Focus yourself.</p>
+<h2>For a child's phone</h2>
+<p>A school login code or a family authenticator now works without handing over the unlock code. Ripple has no remote control, so you set the rules on the child's phone once. Keep the unlock code to yourself, and turn on uninstall protection on Android 11 and later.</p>
+<h2>iPhone</h2>
+<p>Ripple for iPhone is still v0.1.5 (iOS 16 or later). It blocks apps during time windows, stops deleting apps through Screen Time, resists clock changes and has an unlock code. It does not have the always allowed list from v0.1.31. Before a window starts, check that your authenticator is not among the apps you chose to block.</p>
+<h2>Links</h2>
+<ul>
+<li><a href="https://ripplefocus.github.io/">Ripple website</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-latest.apk">Latest Android APK</a> · <a href="https://github.com/ripplefocus/ripplefocus.github.io/releases/latest">Latest GitHub release</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-v0.1.5.ipa">iPhone v0.1.5 (.ipa)</a></li>
+<li><a href="../authenticator-during-lock-zh/" lang="zh-CN">中文</a></li>
+</ul>
+<p><a href="../">More Ripple guides</a></p>
+</body></html>

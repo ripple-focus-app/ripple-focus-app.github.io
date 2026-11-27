@@ -1,0 +1,34 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>手机锁着却要查验证码、开代理怎么办：涟漪对身份验证器和代理 App 的处理（安卓和 iPhone）</title>
+<meta name="description" content="手机设了严格锁定，结果电脑登录要的两步验证码在手机上打不开，代理 App 也开不了，很多人因此把限制 App 删了。安卓 v0.1.31 起涟漪默认放行常见身份验证器、Clash 类代理和系统自带小工具，完全锁定时也能用。这篇讲覆盖了哪些、哪些还没真机测过，以及 iPhone 版的情况。">
+<link rel="canonical" href="https://ripple-focus-app.github.io/authenticator-during-lock-zh/">
+<link rel="alternate" hreflang="en" href="https://ripple-focus-app.github.io/authenticator-during-lock/">
+<link rel="alternate" type="application/atom+xml" title="Ripple guides" href="https://ripple-focus-app.github.io/feed.xml">
+<style>body{font:17px/1.8 system-ui,sans-serif;max-width:720px;margin:40px auto;padding:0 18px;color:#1d2433}a{color:#2563eb}h1{font-size:26px}h2{font-size:20px;margin-top:28px}</style></head><body>
+<h1>手机锁着，偏偏要查验证码</h1>
+<p>先说明，我是涟漪的开发者，涟漪是免费的安卓和 iPhone 手机限制 App，没有广告，不用注册。很多人关掉严格限制，原因很小也很实际。电脑上登录公司系统要两步验证码，验证码在手机的身份验证器里，手机却锁到下午 6 点。或者要先打开代理 App 才能访问工作要用的网站。碰上一两次，不少人就把限制 App 卸了。家长也会遇到，孩子晚上锁定期间要登录学校账号，验证码在手机上。</p>
+<h2>安卓 v0.1.31 改了什么</h2>
+<p>v0.1.31 起，下面这些 App 默认放行，完全锁定期间也能打开：</p>
+<ul>
+<li>身份验证器：Google 身份验证器、Microsoft Authenticator、Authy、Aegis、2FAS、FreeOTP 和 FreeOTP+。</li>
+<li>Clash 类代理：Clash for Android、Clash Meta for Android 和 FlClash。</li>
+<li>系统自带的计算器、录音机、便签、天气、指南针、收音机和翻译，覆盖 OPPO、一加、小米、vivo、华为、荣耀、三星、Pixel 和魅族。</li>
+</ul>
+<p>这些 App 不占「专注时可用」的名额，也不算进整台手机的使用时长。在「专注时可用」页面，它们列在「这些 App 一直能用，不占名额」那一组，哪些一直开着一眼能看到。</p>
+<h2>哪些照样受限制</h2>
+<p>短视频、游戏、购物和你规则里的其他 App 跟以前一样。运营商营业厅这类自带拨号功能的第三方 App，以前会被当成电话一直放行，现在按普通 App 的规则来。系统自带的电话和短信照常能用。</p>
+<h2>已知限制</h2>
+<p>v0.1.31 在 OPPO 手机上覆盖安装过，无障碍服务正常连回。新放行的 App 还没在完全锁定时段逐个在真机上打开试过。工作上离不开某个验证器的话，先设一个几分钟的短锁定，自己打开试一次再放心用。有的手机自带天气里带资讯或广告入口，它也会一直能打开。不在上面名单里的验证器按普通 App 处理，需要的话自己加进「专注时可用」。</p>
+<h2>给孩子的手机</h2>
+<p>孩子登录学校账号要的验证码，现在不用把解锁码告诉孩子也能查。涟漪没有远程管理，规则要在孩子手机上设一次。解锁码家长自己留着，安卓 11 及以上打开防卸载。</p>
+<h2>iPhone</h2>
+<p>涟漪 iPhone 版仍是 v0.1.5（iOS 16 及以上），能按时段屏蔽 App，通过屏幕使用时间禁止删除 App，防改时间，用解锁码。它没有 v0.1.31 的默认放行名单。时段开始前，确认身份验证器不在你选的屏蔽 App 里。</p>
+<h2>链接</h2>
+<ul>
+<li><a href="https://ripplefocus.github.io/">涟漪官网</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-latest.apk">安卓最新版 APK</a> · <a href="https://github.com/ripplefocus/ripplefocus.github.io/releases/latest">GitHub 最新发布</a></li>
+<li><a href="https://ripplefocus.github.io/dl/ripple-v0.1.5.ipa">iPhone v0.1.5（.ipa）</a></li>
+<li><a href="../authenticator-during-lock/" lang="en">English</a></li>
+</ul>
+<p><a href="../">更多涟漪指南</a></p>
+</body></html>
