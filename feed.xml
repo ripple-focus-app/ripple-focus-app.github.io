@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-27T22:20:00+08:00</updated>
+  <updated>2026-11-28T00:20:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>One more episode of a short drama: limiting short drama apps on Android and iPhone (for yourself and for a child who watches them in bed)</title>
+    <link href="https://ripple-focus-app.github.io/short-drama-apps/"/>
+    <id>https://ripple-focus-app.github.io/short-drama-apps/</id>
+    <updated>2026-11-28T00:20:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>短剧一集接一集停不下来：安卓和 iPhone 怎么限制短剧 App（自己用和孩子躲被窝看）</title>
+    <link href="https://ripple-focus-app.github.io/short-drama-apps-zh/"/>
+    <id>https://ripple-focus-app.github.io/short-drama-apps-zh/</id>
+    <updated>2026-11-28T00:20:00+08:00</updated>
+  </entry>
   <entry>
     <title>Watching live streams for hours every night: limiting live stream apps on Android and iPhone (for yourself and for a teenager watching game streams)</title>
     <link href="https://ripple-focus-app.github.io/live-stream-apps/"/>
