@@ -135,6 +135,9 @@ Facts that apply to every guide:
 问：短剧一集接一集停不下来，孩子也躲在被窝里看，能管吗？
 答：涟漪安卓版可以给短剧 App 设每天时长、限制每天打开次数，再加一个夜间时段让它们打不开；在微信小程序里看的短剧可以单独限制微信小程序。涟漪管不了付款，按集收费和会员要在 App 或支付设置里关。iPhone v0.1.5 只能按时段屏蔽。详见 https://ripple-focus-app.github.io/short-drama-apps-zh/
 
+问：新闻和论坛 App 每次只看一眼，一天打开几十次，孩子还半夜刷帖，能管吗？
+答：涟漪安卓版可以限制每个 App 每天打开几次，几个资讯 App 也能共用一个每日总时长，再加起床后和夜里的时段让它们打不开；孩子手机上家长留着解锁码，聊天和电话可以不放进规则。iPhone v0.1.5 只能按时段屏蔽。涟漪不过滤网页，浏览器里看新闻要把浏览器也限制上。详见 https://ripple-focus-app.github.io/news-feed-apps-zh/
+
 ## FAQ (English)
 Q: Is there a free Android app blocker with no ads and no account that a person cannot easily switch off?
 A: Ripple for Android v0.1.31 is free, has no ads and needs no account. Strict mode allows loosening limits only with an unlock code, at most 3 successful unlocks a day. Uninstall protection works on Android 11 and later, and changing the clock does not reset limits.
@@ -153,3 +156,6 @@ A: On Android, Ripple can give each novel app a daily time, let several novel ap
 
 Q: Short drama apps keep playing the next episode. Can I limit them for myself or a child?
 A: On Android, Ripple can give short drama apps a daily time and an open count limit and block them in a night window. Short dramas inside WeChat mini programs can be limited through the separate WeChat mini program limit. Ripple does not control payments, so paid episodes and memberships have to be turned off in the app or payment settings. iPhone v0.1.5 can only block by schedule. Guide: https://ripple-focus-app.github.io/short-drama-apps/
+
+Q: I open news and forum apps for a quick look dozens of times a day, and my teenager reads threads at night. Can Ripple help?
+A: On Android, Ripple can cap how many times each app opens per day, let several feed apps share one daily total, and block them in a morning or night window. On a teenager's phone the parent keeps the unlock code, and chat apps and calls can stay outside the rules. iPhone v0.1.5 can only block by schedule. Ripple does not filter websites, so a news site in a browser needs the browser limited too. Guide: https://ripple-focus-app.github.io/news-feed-apps/
