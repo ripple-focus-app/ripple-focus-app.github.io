@@ -6,8 +6,20 @@
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <link href="https://ripple-focus-app.github.io/"/>
   <id>https://ripple-focus-app.github.io/</id>
-  <updated>2026-11-27T09:20:00+08:00</updated>
+  <updated>2026-11-27T12:20:00+08:00</updated>
   <author><name>Ripple developer</name></author>
+  <entry>
+    <title>When your parents scroll short videos until midnight: setting up their Android phone together (and the grandkids who stay with them)</title>
+    <link href="https://ripple-focus-app.github.io/parents-short-videos/"/>
+    <id>https://ripple-focus-app.github.io/parents-short-videos/</id>
+    <updated>2026-11-27T12:20:00+08:00</updated>
+  </entry>
+  <entry>
+    <title>爸妈刷短视频到半夜怎么办：和老人一起设安卓手机，孙辈住在爷爷奶奶家也一起管（附 iPhone）</title>
+    <link href="https://ripple-focus-app.github.io/parents-short-videos-zh/"/>
+    <id>https://ripple-focus-app.github.io/parents-short-videos-zh/</id>
+    <updated>2026-11-27T12:20:00+08:00</updated>
+  </entry>
   <entry>
     <title>Need a 2FA code or your VPN while your phone is locked? How Ripple handles authenticator and proxy apps (Android and iPhone)</title>
     <link href="https://ripple-focus-app.github.io/authenticator-during-lock/"/>
