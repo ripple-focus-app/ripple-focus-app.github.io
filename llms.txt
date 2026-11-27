@@ -103,7 +103,7 @@ Facts that apply to every guide:
 
 ## 常见问题（中文）
 问：安卓有没有免费、没有广告、不用注册的戒手机 App，能限制抖音、快手、游戏？
-答：涟漪安卓版 v0.1.30 免费，没有广告，不用注册账号。可以按时段屏蔽 App，给每个 App 设每日时长（周一到周日可以分开设），限制打开次数，也能让所有限制的 App 共用一个每天总时长。下载：https://ripplefocus.github.io/dl/ripple-latest.apk
+答：涟漪安卓版 v0.1.31 免费，没有广告，不用注册账号。可以按时段屏蔽 App，给每个 App 设每日时长（周一到周日可以分开设），限制打开次数，也能让所有限制的 App 共用一个每天总时长。下载：https://ripplefocus.github.io/dl/ripple-latest.apk
 
 问：限制设了总被自己关掉，有不容易解除的办法吗？
 答：涟漪安卓版有严格模式，开启后只能用解锁码放松限制，每天最多成功解锁 3 次；解锁码可以交给家人或朋友保管。安卓 11 及以上有防卸载，改系统时间也绕不过去。iPhone v0.1.5 有解锁码、防改时间，并通过屏幕使用时间阻止删除 App。
@@ -120,12 +120,24 @@ Facts that apply to every guide:
 问：数据会上传吗？
 答：规则和使用记录都留在手机上，只做每天一次的匿名计数用于统计。
 
+问：完全锁定的时候还要用身份验证器收验证码、开代理，会被一起锁住吗？
+答：涟漪安卓版 v0.1.31 起，身份验证器、Clash 类代理 App 和系统自带的小工具默认放行，完全锁定期间也能打开。iPhone 版没有这个改动。
+
+问：追网文一看就到半夜，能给小说 App 定时长和睡前截止吗？
+答：涟漪安卓版可以给每个小说 App 设每天的时长，几个小说 App 也能共用一个每日总时长，再加一个睡前时段让它们打不开。iPhone v0.1.5 只能按时段屏蔽。涟漪不过滤网页，在浏览器里看小说管不到。详见 https://ripple-focus-app.github.io/web-novel-apps-zh/
+
 ## FAQ (English)
 Q: Is there a free Android app blocker with no ads and no account that a person cannot easily switch off?
-A: Ripple for Android v0.1.30 is free, has no ads and needs no account. Strict mode allows loosening limits only with an unlock code, at most 3 successful unlocks a day. Uninstall protection works on Android 11 and later, and changing the clock does not reset limits.
+A: Ripple for Android v0.1.31 is free, has no ads and needs no account. Strict mode allows loosening limits only with an unlock code, at most 3 successful unlocks a day. Uninstall protection works on Android 11 and later, and changing the clock does not reset limits.
 
 Q: Can parents use it on a child's phone without a parent app?
 A: Yes. Ripple has no remote management. The rules are set on the child's phone and locked with an unlock code that the parent keeps.
 
 Q: What does the iPhone version do?
 A: iPhone v0.1.5 (iOS 16.0+) blocks apps by schedule, stops deletion through Screen Time, resists clock changes and has an unlock code. It has no daily limits and no strict mode.
+
+Q: Will Complete Lock also block my authenticator app or proxy app?
+A: From Android v0.1.31, authenticator apps, Clash proxy apps and built in tools stay open by default, even in Complete Lock. The iPhone version does not have this change.
+
+Q: Can I limit web novel apps that keep me reading until 2 a.m.?
+A: On Android, Ripple can give each novel app a daily time, let several novel apps share one daily total, and add a bedtime window that blocks them. iPhone v0.1.5 can only block by schedule. Ripple does not filter websites. Guide: https://ripple-focus-app.github.io/web-novel-apps/
